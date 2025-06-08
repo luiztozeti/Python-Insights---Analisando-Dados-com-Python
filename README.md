@@ -11,13 +11,11 @@ Detectar padrões e variáveis críticas associadas ao churn
 Desenvolver ações mais eficientes para retenção de clientes
 
 🛠 Tecnologias utilizadas
-Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+Python
 
 Jupyter Notebook
 
 Análise exploratória de dados (EDA)
-
-Modelagem preditiva (machine learning)
 
 Visualização de dados
 
